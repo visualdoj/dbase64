@@ -1,0 +1,71 @@
+SGVsbG8gd29ybGQh
+SGVsbG8gd29ybGQhIQ==
+SGVsbG8gd29ybGQhISE=
+YWJjMTIzIT8kKiYoKSctPUB+
+YWJjMTIzIT8kKiYoKSctPUB-
+4D616E20  69732064  69737469  6E677569  | Man is distingui
+73686564  2C206E6F  74206F6E  6C792062  | shed, not only b
+79206869  73207265  61736F6E  2C206275  | y his reason, bu
+74206279  20746869  73207369  6E67756C  | t by this singul
+61722070  61737369  6F6E2066  726F6D20  | ar passion from 
+6F746865  7220616E  696D616C  732C2077  | other animals, w
+68696368  20697320  61206C75  7374206F  | hich is a lust o
+66207468  65206D69  6E642C20  74686174  | f the mind, that
+20627920  61207065  72736576  6572616E  |  by a perseveran
+6365206F  66206465  6C696768  7420696E  | ce of delight in
+20746865  20636F6E  74696E75  65642061  |  the continued a
+6E642069  6E646566  61746967  61626C65  | nd indefatigable
+2067656E  65726174  696F6E20  6F66206B  |  generation of k
+6E6F776C  65646765  2C206578  63656564  | nowledge, exceed
+73207468  65207368  6F727420  76656865  | s the short vehe
+6D656E63  65206F66  20616E79  20636172  | mence of any car
+6E616C20  706C6561  73757265  2E        | nal pleasure.
+TWFuIGlzIGRpc3Rpbmd1aXNoZWQsIG5vdCBvbmx5IGJ5IGhpcyByZWFzb24sIGJ1dCBieSB0aGlzIHNpbmd1bGFyIHBhc3Npb24gZnJvbSBvdGhlciBhbmltYWxzLCB3aGljaCBpcyBhIGx1c3Qgb2YgdGhlIG1pbmQsIHRoYXQgYnkgYSBwZXJzZXZlcmFuY2Ugb2YgZGVsaWdodCBpbiB0aGUgY29udGludWVkIGFuZCBpbmRlZmF0aWdhYmxlIGdlbmVyYXRpb24gb2Yga25vd2xlZGdlLCBleGNlZWRzIHRoZSBzaG9ydCB2ZWhlbWVuY2Ugb2YgYW55IGNhcm5hbCBwbGVhc3VyZS4=
+
+RFC-4648 test vectors
+ (empty string)
+Zg==
+Zm8=
+Zm9v
+Zm9vYg==
+Zm9vYmE=
+Zm9vYmFy
+66                                      | f
+666F                                    | fo
+666F6F                                  | foo
+666F6F62                                | foob
+666F6F62  61                            | fooba
+666F6F62  6172                          | foobar
+ (empty string)
+Zg==
+Zm8=
+Zm9v
+Zm9vYg==
+Zm9vYmE=
+Zm9vYmFy
+66                                      | f
+666F                                    | fo
+666F6F                                  | foo
+666F6F62                                | foob
+666F6F62  61                            | fooba
+666F6F62  6172                          | foobar
+
+Some cases with + and /
+/+8=
+FFEF                                    | ??
+_-8=
+FFEF                                    | ??
+
+Some cases with garbage inside or truncated
+666F6F                                  | foo
+666F6F62                                | foob
+666F6F62  61                            | fooba
+666F6F62  6172                          | foobar
+FFEF                                    | ??
+666F6F62                                | foob
+666F6F                                  | foo
+666F6F62                                | foob
+666F6F62  61                            | fooba
+666F6F62  6172                          | foobar
+FFEF                                    | ??
+666F6F62                                | foob
